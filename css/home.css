@@ -1,5 +1,7 @@
-/* CSS HEX */
-
+@font-face {
+    font-family: Camo;
+    src: url(/CamouflageW.ttf);
+}
 
 body {
     background-color: var(--bg);
@@ -14,6 +16,7 @@ body {
 .que {
     color: var(--bla-gre);
     text-align: center;
+    font-family: Camo;
 }
 
 .sides {
