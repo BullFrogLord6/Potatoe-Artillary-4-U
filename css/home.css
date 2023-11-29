@@ -1,5 +1,7 @@
 body {
     background-image: url(/img/back.jpeg);
+    background-repeat:repeat;
+    background-size: cover;
 }
 
 .que {
