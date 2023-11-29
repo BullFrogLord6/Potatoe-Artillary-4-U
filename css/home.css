@@ -1,14 +1,22 @@
+/* CSS HEX */
+
+
 body {
-    background-image: url(/img/back.jpeg);
-    background-repeat:repeat;
-    background-size: cover;
+    background-color: var(--bg);
+    --yel: #c0c162ff;
+    --brow: #551b14ff;
+    --bg: #989c94ff;
+    --bla-gre: #00120bff;
+    --blu: #133c55ff;
+
 }
 
 .que {
-    color:  #a98b52;
+    color: var(--bla-gre);
     text-align: center;
 }
 
 .sides {
-    color: #a98b52;
+    color:  var(--bla-gre);
+    text-align: center;
 }
