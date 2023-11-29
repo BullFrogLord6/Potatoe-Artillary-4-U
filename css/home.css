@@ -1,7 +1,12 @@
-body{
-    background-color: #604439;
+body {
+    background-image: url(./img/back.jpeg);
 }
-.que{
+
+.que {
     color: #9e9a75;
     text-align: center;
+}
+
+.sides {
+    color: #41533b;
 }
