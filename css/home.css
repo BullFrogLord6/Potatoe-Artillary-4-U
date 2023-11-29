@@ -2,6 +2,10 @@
     font-family: Camo;
     src: url(/armalite.ttf);
 }
+@font-face {
+    font-family: sq;
+    src: url(/Squares\ Bold\ Free.otf);
+}
 
 body {
     background-color: var(--bg);
@@ -23,4 +27,5 @@ body {
 .sides {
     color:  var(--bla-gre);
     text-align: center;
+    font-family: sq;
 }
