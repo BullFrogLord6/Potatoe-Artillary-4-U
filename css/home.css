@@ -23,6 +23,12 @@ body {
     font-family: Camo;
     font-size: 1in;
 }
+.que2{
+    color: var(--bla-gre);
+    text-align: center;
+    font-family: Camo;
+    font-size: 0.75in;
+}
 
 .sides {
     color:  var(--bla-gre);
