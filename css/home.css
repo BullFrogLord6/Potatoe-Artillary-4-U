@@ -42,6 +42,8 @@ button{
     background-color: var(--blu);
     border-width: 15px;
     border-radius: 2%;
+    border-color: var(--brow);
+    color: var(--bla-gre);
 }
 div{
     text-align: center;
