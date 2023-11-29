@@ -38,8 +38,10 @@ body {
 button{
     font-family: Camo;
     size: 4cm;
-    padding: 1cm;
+    padding: 0.5cm;
     background-color: var(--blu);
+    border-width: 15px;
+    border-radius: 2%;
 }
 div{
     text-align: center;
