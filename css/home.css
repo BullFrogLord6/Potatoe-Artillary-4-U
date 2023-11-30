@@ -46,6 +46,9 @@ button{
     color: var(--bla-gre);
     font-size: 0.5cm;
 }
+button:hover{
+    background-color: var(--yel);
+}
 div{
     text-align: center;
 }
